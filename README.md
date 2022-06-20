@@ -19,13 +19,13 @@ for (x=0;x<num ;x++)
       temp=arr[y];
       arr[y=arr[y+1];
       arr[y+1]=temp;
-      }
-      }
-      }
+    }
+  }
+ }
       printf("Array emplementing bublesort:");
       for(x=0;x<num;x++);
       {
        printf("%d",arr[x]);
-       }
+      }
        return 0;
-       }
+}
